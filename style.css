@@ -1,0 +1,10 @@
+article {
+    height: 200px;
+    font-family: sans-serif;
+    background-color: aqua;
+    text-align: center;
+}
+
+h2 {
+    padding: 30px;
+}
